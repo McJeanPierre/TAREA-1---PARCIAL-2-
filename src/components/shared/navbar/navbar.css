@@ -1,0 +1,14 @@
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.li-nav {
+    padding: 20px 40px;
+    border: 1px solid transparent;
+}
+
+.li-nav:hover {
+    border-color:#646cff;
+}
